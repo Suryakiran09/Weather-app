@@ -62,10 +62,3 @@ async function fetchData(loc) {
 }
 
 setInterval(fetchData(loc),100000);
-
-
-
-
-
-
-madda guduv
