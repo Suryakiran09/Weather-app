@@ -14,7 +14,7 @@ btn.onclick = () =>{
     fetchData(loc);
 };
 
-// const url = `api.openweathermap.org/data/2.5/weather?q=${loc}&APPID=1fa19e1f26932296f87280447a335a23`;
+// const url = `api.openweathermap.org/data/2.5/weather?q=${loc}&APPID=`;
 
 
 async function fetchData(loc) {
