@@ -1,0 +1,1 @@
+<h1>This is an weather applicattion where you can give your place as input and get the weather details of your location accordingly</h1>
