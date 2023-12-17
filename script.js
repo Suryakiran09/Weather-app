@@ -19,7 +19,7 @@ btn.onclick = () =>{
 
 async function fetchData(loc) {
     const apiKey = '1fa19e1f26932296f87280447a335a23'; // Replace with your actual API key
-    // const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${loc}&APPID=${apiKey}`;
+    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${loc}&APPID=${apiKey}`;
   
     try {
       const response = await fetch(apiUrl);
